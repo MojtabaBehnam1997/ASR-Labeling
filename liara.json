@@ -1,3 +1,10 @@
 {
-  "port": 8000,
+"app":"mynewasr"
+"port":8000
+"build":{
+"location":"germany"
+}
+"disks":[
+{mydisk}
+]
 }
