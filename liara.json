@@ -1,8 +1,4 @@
 {
-  "app": "mynewasr",
+
   "port": 8000,
-  "build": {
-    "location": "germany"
-  },
-  "disks": [5]
 }
